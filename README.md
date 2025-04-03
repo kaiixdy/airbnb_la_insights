@@ -33,5 +33,3 @@ This project analyzes Airbnb listings in Los Angeles to forecast average listing
 - High cleaning fees and instant booking show slight negative impact on ratings
 
 ---
-
-> *Turning listing data into strategy through prediction and visualization.*
