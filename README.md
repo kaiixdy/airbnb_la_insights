@@ -26,10 +26,11 @@ This project analyzes Airbnb listings in Los Angeles to forecast average listing
 
 ---
 
-## 💡 Key Findings
+## 📁 Key Files
 
-- Prices show seasonal peaks and post-COVID recovery  
-- Guest satisfaction improves with superhost status, high response rate, and friendly tone  
-- High cleaning fees and instant booking show slight negative impact on ratings
+- `DSO 574 Airbnb.pdf` – Main report  
+- `DSO 574 Bonus.pdf` – Supplementary analysis  
+- `DSO 574 AirBnB Appendix.pdf` – Visualizations & plots  
+- `DSO_574_Bonus_Appendix.ipynb.pdf` – Full technical notebook  
 
 ---
